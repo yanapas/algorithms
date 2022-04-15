@@ -4,7 +4,7 @@ function isItPalindrome(str) {
   console.log(newStr);
   let reversed = newStr.split('').reverse().join('')
   return newStr === reversed
-  console.log(reversed);
+
 }
 
 // with FOR loop
