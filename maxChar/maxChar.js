@@ -21,5 +21,9 @@ function maxChar(str){
   }
   return maxChar;
 }
+//second ex
+function maxChar(str){
+
+}
 
 console.log(maxChar("Hello There!"));
